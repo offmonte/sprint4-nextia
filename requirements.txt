@@ -1,0 +1,3 @@
+# Dependências Python
+streamlit
+pyodbc
